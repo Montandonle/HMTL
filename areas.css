@@ -1,0 +1,13 @@
+body{
+    background-color: chartreuse;
+}
+h1{
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(39, 75, 3);
+}
+p{
+    font-size: medium;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(39, 75, 3);
+}
